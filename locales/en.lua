@@ -1,5 +1,5 @@
 Locales['en'] = {
-    ['jailtime_reduced']                = 'Your jailtime has been recued by ~g~ seconds for your work.',
+    ['jailtime_reduced']                = 'Your jailtime has been reduced by ~g~ seconds for your work.',
 
     -- Electrician job
     ['lj_mapblip']                = 'broken generator',
